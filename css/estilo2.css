@@ -1,0 +1,22 @@
+.flex-container{
+      
+        display: flex;
+        flex-direction: column;
+        background-color: cadetblue;
+}
+
+p{ 
+     font-size: medium;
+     font-family: fantasy;
+}
+
+.flex-container div{
+
+ background-color: rgb(36, 143, 90);
+ width: 100px;
+ margin: 57px;
+ text-align: center;
+ font-size: medium;
+ color: rgb(32, 102, 134);
+
+}
